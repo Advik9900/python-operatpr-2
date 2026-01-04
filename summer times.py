@@ -1,4 +1,4 @@
-temp = foat(input("Enter the temperature"))
+temp = float(input("Enter the temperature"))
 if temp > 20:
     print("Hot , turn on the Air conditioner")
 else:
